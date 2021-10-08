@@ -1,6 +1,5 @@
 # PESNet
-Playing with Neural Nets for PESes
-
+Playing with Neural Nets for PESes. Right now using standard NN from Keras.
 
 ## Gaussian Process
 
